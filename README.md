@@ -25,4 +25,5 @@ Leveraging Python's data analysis libraries like Matplotlib, WordCloud, etc. Exp
 **Sentiment Analysis:** with Vader from NLTK
 
 
+For full report: https://github.com/Egunjobi-Tunde/Cook-a-thon/blob/main/Cookathon%20Report.pdf  
 
