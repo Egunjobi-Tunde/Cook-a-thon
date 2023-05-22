@@ -6,7 +6,7 @@ In the realm of culinary arts, there are individuals who possess an innate talen
 A data scraping technique was used to collect tweets related to Hilda Baci's culinary journey and analyze their content and sentiments to gain insights into the public's reactions and sentiments.
 #### Project Objective
 ![image](https://github.com/Egunjobi-Tunde/Cook-a-thon/assets/105982006/fa442d92-f15e-49c0-b0c9-c65962819593)
-to
+# TO
 ![image](https://github.com/Egunjobi-Tunde/Cook-a-thon/assets/105982006/8b956317-bd4f-45a6-b78e-ac0b21fe9e07)
 
 #### Methodology
