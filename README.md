@@ -19,8 +19,10 @@ The scraped tweets were saved as a CSV file to facilitate subsequent analysis.
 The data was cleaned prior to the analysis
 Nan values, unnecessary space, URL, and unnecessary characters
 
-**Data Visualization and analysis:**
-Leveraging Python's data analysis libraries like Matplotlib, WordCloud, Vader, etc. Exploratory data analysis (EDA) on the collected tweets was performed.
+**Data Visualization:**
+Leveraging Python's data analysis libraries like Matplotlib, WordCloud, etc. Exploratory data analysis (EDA) on the collected tweets was performed.
+
+**Sentiment Analysis:** with Vader from NLTK
 
 
 
